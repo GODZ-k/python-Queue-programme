@@ -8,4 +8,5 @@
   ## What did we use in this project?
   - If else statement.
   - While loop
-  - List functions and methods # python-Queue-programme
+  - List functions and methods.
+  - python-Queue-programme
